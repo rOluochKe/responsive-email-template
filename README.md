@@ -1,4 +1,4 @@
-# Responsive Email Template
+# Responsive Email Templates
 
 - HTML5
 - CSS3
